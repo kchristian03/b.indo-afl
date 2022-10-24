@@ -1,0 +1,9 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.bg-img{
+    background-image: url("/kanjuruhan/images/kanjuruhan2.jpg");
+}
+
+
