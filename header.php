@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="/kanjuruhan/css-js/style.css">
     <script src="/kanjuruhan/css-js/components-v2.js"></script>
     <script src="/kanjuruhan/css-js/alpine.js"></script>
+    <script type="text/javascript" src="/kanjuruhan/css-js/jquery-3.3.1.min.js"></script>
+    <link rel="stylesheet" href="/kanjuruhan/css-js/floating-wpp.css">
+    <script type="text/javascript" src="/kanjuruhan/css-js/floating-wpp.js"></script>
 </head>
 <body>
 

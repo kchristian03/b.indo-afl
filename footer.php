@@ -31,6 +31,23 @@
     </div>
 </div>
 </div>
-
+<div id="myButton"></div>
 </body>
+
+<script type="text/javascript">
+    $(function () {
+        $('#myButton').floatingWhatsApp({
+            phone: '6285157227250',
+            popupMessage: 'Bisa dibantu?',
+            message: "Halo saya dari website anda kevinchr.com/kanjuruhan/ ingin menyampaikan sesuatu ...",
+            showPopup: true,
+            showOnIE: false,
+            headerTitle: 'Kritik dan Saran',
+            headerColor: '#128C7E',
+            backgroundColor: '#128C7E',
+            buttonImage: '<img src="/kanjuruhan/images/whatsapp.svg" />'
+        });
+    });
+</script>
+
 </html>

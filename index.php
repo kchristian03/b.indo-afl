@@ -33,6 +33,7 @@
         Namun, kedewasaan sangat kurang terjadi di dalam sebuah pertandingan ini. Dimulai dari 1 orang yang turun ke dalam lapangan dan berusaha berontak karena ketidak terimaannya terhadap kekalahan itu, lalu disusul dengan aremania dan aremanita lainnya, sehingga polisi tidak bisa mengendalikan aksi berontak ini dan terjadilah sebuah “perang” antara fans Arema kepada pemain sepak bola Persebaya (ilustrasi sebagai berikut).
 
     </p>
+
 </div>
 <?php include("footer.php") ?>
 
