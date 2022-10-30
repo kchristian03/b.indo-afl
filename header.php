@@ -13,6 +13,7 @@
     <script type="text/javascript" src="/kanjuruhan/css-js/jquery-3.3.1.min.js"></script>
     <link rel="stylesheet" href="/kanjuruhan/css-js/floating-wpp.css">
     <script type="text/javascript" src="/kanjuruhan/css-js/floating-wpp.js"></script>
+    <link rel="icon" href="https://dieng.blob.core.windows.net/webmaster/2021/09/LOGO-UC-FIX-SEP-2021-01.png" type="image/x-icon">
 </head>
 <body>
 

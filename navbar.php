@@ -9,7 +9,7 @@
                     <a href="/kanjuruhan/">
                         <span class="sr-only">UCiputra</span>
                         <img class="h-10 w-auto sm:h-16"
-                             src="https://dieng.blob.core.windows.net/webmaster/2021/09/LOGO-UC-FIX-SEP-2021-01.png"
+                             src="https://dieng.blob.core.windows.net/webmaster/2021/09/LOGO-UC-PANJANG-FIX-SEP-2021-01.png"
                              alt="">
                     </a>
                     <div class="-mr-2 flex items-center md:hidden">
@@ -47,7 +47,7 @@
             <div class="px-5 pt-4 flex items-center justify-between">
                 <div>
                     <img class="h-8 w-auto"
-                         src="https://dieng.blob.core.windows.net/webmaster/2021/09/LOGO-UC-FIX-SEP-2021-01.png"
+                         src="https://dieng.blob.core.windows.net/webmaster/2021/09/LOGO-UC-PANJANG-FIX-SEP-2021-01.png"
                          alt="">
                 </div>
                 <div class="-mr-2">

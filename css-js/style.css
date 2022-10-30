@@ -34,7 +34,10 @@ html, body {
 .paragraph{
     text-align: justify;
     text-justify: inter-word;
-    padding:12px 48px 12px 48px;
 }
 
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
 
