@@ -30,8 +30,8 @@
             </div>
             <div class="hidden md:flex md:space-x-10">
                 <a href="/kanjuruhan/" class="font-medium text-gray-200 hover:text-white">Home</a>
-                <a href="#" class="font-medium text-gray-200 hover:text-white">Breaking News</a>
-                <a href="/kanjuruhan/about.php" class="font-medium text-gray-200 hover:text-white">About</a>
+                <a href="https://sites.kevinchr.com/kanjuruhan/" class="font-medium text-gray-200 hover:text-white">Breaking News</a>
+                <a href="/kanjuruhan/about.php" class="hidden font-medium text-gray-200 hover:text-white">About</a>
             </div>
         </nav>
     </div>
@@ -67,11 +67,11 @@
             <div class="px-2 pt-2 pb-3">
                 <a href="/kanjuruhan/"
                    class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Home</a>
-                <a href="#"
+                <a href="https://sites.kevinchr.com/kanjuruhan/"
                    class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Breaking
                     News</a>
                 <a href="/kanjuruhan/about.php"
-                   class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">About</a>
+                   class="hidden block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">About</a>
             </div>
         </div>
     </div>
